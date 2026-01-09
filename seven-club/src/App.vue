@@ -16,7 +16,7 @@ import WhatsAppFloat from './components/WhatsAppFloat.vue'
       
       <section class="py-20 text-center px-6">
         <p class="text-zinc-400 italic text-xl md:text-2xl max-w-2xl mx-auto leading-relaxed font-light">
-          "Il tempio della musica a Prato. Luci, beat e un'esperienza sensoriale unica tutti giorni."
+          "Il tempio della musica a Campi Bisenzio. Luci, beat e un'esperienza sensoriale unica tutti giorni."
         </p>
       </section>
 
