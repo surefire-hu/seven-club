@@ -3,8 +3,8 @@ const phoneNumber = "393444422552"
 
 const openWhatsApp = (type) => {
   const messages = {
-    tavolo: "Ciao Seven Club, vorrei informazioni per prenotare un TAVOLO.",
-    lista: "Ciao Seven Club, vorrei inserire il mio nome in LISTA."
+    tavolo: "Ciao Se7en Club, vorrei informazioni per prenotare un TAVOLO.",
+    lista: "Ciao Se7en Club, vorrei inserire il mio nome in LISTA."
   }
   
   const text = encodeURIComponent(messages[type])

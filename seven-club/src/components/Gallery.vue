@@ -19,7 +19,7 @@ const images = [
         The <span class="text-purple-600">Atmosphere</span>
       </h2>
       <p class="text-zinc-500 text-xs uppercase tracking-[0.3em] mt-2">
-        Follow us on Instagram @SevenClub
+        Follow us on Instagram @Se7enClub
       </p>
     </div>
 

@@ -28,7 +28,7 @@ import WhatsAppFloat from './components/WhatsAppFloat.vue'
     <footer id="footer" class="bg-zinc-950 pt-20 pb-10 px-6 border-t border-white/5">
       <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
         <div>
-          <div class="text-2xl font-black italic mb-6 uppercase">Seven<span class="text-purple-600">Club</span></div>
+          <div class="text-2xl font-black italic mb-6 uppercase">Se7en<span class="text-purple-600">Club</span></div>
           <p class="text-zinc-500 text-sm leading-relaxed">Il punto di riferimento per la nightlife. Qualità, musica e innovazione.</p>
         </div>
         <div>
@@ -36,7 +36,7 @@ import WhatsAppFloat from './components/WhatsAppFloat.vue'
           <ul class="text-zinc-400 text-sm space-y-2">
             <li>Via dei Confini, 162, 50013 Campi Bisenzio FI</li>
             <li>+39 344 442 2552</li>
-            <li>info@sevenclub.it</li>
+            <li>info@se7enclub.it</li>
           </ul>
         </div>
         <div>
@@ -57,7 +57,7 @@ import WhatsAppFloat from './components/WhatsAppFloat.vue'
       </div>
       </div>
       <div class="text-center text-[10px] text-white uppercase tracking-[0.5em] border-t border-white/5 pt-10">
-        © 2026 SEVEN CLUB | Designed by <a href="https://steven-hu.netlify.app/" class="text-purple-500">surefire</a>
+        © 2026 SE7EN CLUB | Designed by <a href="https://steven-hu.netlify.app/" class="text-purple-500">surefire</a>
       </div>
     </footer>
 

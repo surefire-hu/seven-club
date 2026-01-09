@@ -18,7 +18,7 @@
         The Best Nightlife Experience
       </h2>
       <h1 class="text-6xl md:text-9xl font-black italic uppercase tracking-tighter leading-none mb-8">
-        SEVEN <span class="text-transparent stroke-white" style="-webkit-text-stroke: 1px white;">CLUB</span>
+        SE7EN <span class="text-transparent stroke-white" style="-webkit-text-stroke: 1px white;">CLUB</span>
       </h1>
       
       <div class="flex flex-col md:flex-row gap-4 justify-center items-center">

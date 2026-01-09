@@ -44,7 +44,7 @@ const links = [
     <div class="max-w-7xl mx-auto px-6 flex justify-between items-center">
       
       <a href="#" class="relative z-210 text-2xl font-black tracking-tighter uppercase italic">
-        SEVEN<span class="text-purple-600">CLUB</span>
+        S7VEN<span class="text-purple-600">CLUB</span>
       </a>
 
       <div class="hidden md:flex items-center space-x-10">
