@@ -43,11 +43,11 @@ const images = [
         <img
           :src="img"
           alt="Club Scene"
-          class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700 scale-105 group-hover:scale-100 opacity-60 group-hover:opacity-100"
+          class="w-full h-full object-cover "
         />
 
         <div
-          class="absolute inset-0 bg-purple-600/20 opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none"
+          class="absolute inset-0 pointer-events-none"
         />
       </SwiperSlide>
     </Swiper>

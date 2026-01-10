@@ -48,7 +48,7 @@ import WhatsAppFloat from './components/WhatsAppFloat.vue'
         <div class="w-full h-full min-h-200px overflow-hidden rounded-lg border border-white/10">
         <iframe
           src="https://www.google.com/maps?q=Via%20dei%20Confini%2C%20162%2C%2050013%20Campi%20Bisenzio%20FI&output=embed"
-          class="w-full h-full grayscale-[1] invert-[0.9] opacity-70 hover:opacity-100 transition-opacity duration-500"
+          class="w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-500"
           style="border:0;"
           allowfullscreen=""
           loading="lazy"
